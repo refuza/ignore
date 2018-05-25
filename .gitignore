@@ -8,3 +8,4 @@
 test/              # abaikan semua file didalam folder test/
 doc/*.txt          # abaikan doc/notes.txt, 
                    # tapi tidak doc/server/arch.txt
+namafile.html
